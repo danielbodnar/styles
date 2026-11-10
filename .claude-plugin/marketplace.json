@@ -1,0 +1,15 @@
+{
+  "name": "danielbodnar-design",
+  "owner": { "name": "Daniel Bodnar", "url": "https://github.com/danielbodnar" },
+  "metadata": {
+    "description": "Design system tooling: themes, design tokens, and the skill that wires them up.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "design-system",
+      "source": "./plugin",
+      "description": "Wire interfaces from existing design systems instead of hand-rolling CSS."
+    }
+  ]
+}

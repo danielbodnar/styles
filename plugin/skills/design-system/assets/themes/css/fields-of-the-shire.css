@@ -1,0 +1,120 @@
+/* Fields of the Shire
+ * Generated. Do not edit. Rebuild: node scripts/build.mjs
+ * Source: openchamber (MIT, Bohdan Triapitsyn)
+ * Format: oklch. Fonts and radius omitted deliberately; set per project.
+ */
+
+[data-theme="fields-of-the-shire"] {
+  --background: oklch(0.9705 0.0139 88.68);
+  --foreground: oklch(0.2035 0.0101 67.21);
+  --card: oklch(0.982 0.0123 91.52);
+  --card-foreground: oklch(0.2035 0.0101 67.21);
+  --popover: oklch(0.982 0.0123 91.52);
+  --popover-foreground: oklch(0.2035 0.0101 67.21);
+  --primary: oklch(0.4586 0.0767 129.23);
+  --primary-foreground: oklch(0.9798 0.0045 78.3);
+  --secondary: oklch(0.944 0.0156 86.43);
+  --secondary-foreground: oklch(0.2035 0.0101 67.21);
+  --muted: oklch(0.9527 0.0168 88);
+  --muted-foreground: oklch(0.4386 0.0185 60.97);
+  --accent: oklch(0.9327 0.0201 84.59);
+  --accent-foreground: oklch(0.2035 0.0101 67.21);
+  --destructive: oklch(0.524 0.1158 30.96);
+  --destructive-foreground: oklch(0.9798 0.0045 78.3);
+  --border: oklch(0.2035 0.0101 67.21 / 0.11);
+  --input: oklch(0.2035 0.0101 67.21 / 0.11);
+  --ring: oklch(0.4586 0.0767 129.23);
+  --sidebar: oklch(0.9527 0.0168 88);
+  --sidebar-foreground: oklch(0.2035 0.0101 67.21);
+  --sidebar-primary: oklch(0.4586 0.0767 129.23);
+  --sidebar-primary-foreground: oklch(0.9798 0.0045 78.3);
+  --sidebar-accent: oklch(0.9327 0.0201 84.59);
+  --sidebar-accent-foreground: oklch(0.2035 0.0101 67.21);
+  --sidebar-border: oklch(0.2035 0.0101 67.21 / 0.11);
+  --sidebar-ring: oklch(0.4586 0.0767 129.23);
+  --primary-hover: oklch(0.5354 0.0861 128.68);
+  --primary-active: oklch(0.5986 0.0877 128.48);
+  --primary-muted: oklch(0.4586 0.0767 129.23 / 0.502);
+  --primary-emphasis: oklch(0.5354 0.0861 128.68);
+  --surface-subtle: oklch(0.944 0.0156 86.43);
+  --surface-overlay: oklch(0.2035 0.0101 67.21 / 0.125);
+  --border-hover: oklch(0.2035 0.0101 67.21 / 0.188);
+  --border-focus: oklch(0.4586 0.0767 129.23);
+  --focus-ring: oklch(0.4586 0.0767 129.23 / 0.251);
+  --selection: oklch(0.2035 0.0101 67.21 / 0.102);
+  --selection-foreground: oklch(0.2035 0.0101 67.21);
+  --error: oklch(0.524 0.1158 30.96);
+  --error-foreground: oklch(0.9798 0.0045 78.3);
+  --error-background: oklch(0.524 0.1158 30.96 / 0.125);
+  --error-border: oklch(0.524 0.1158 30.96 / 0.314);
+  --warning: oklch(0.5024 0.0988 60.78);
+  --warning-foreground: oklch(0.9798 0.0045 78.3);
+  --warning-background: oklch(0.5024 0.0988 60.78 / 0.125);
+  --warning-border: oklch(0.5024 0.0988 60.78 / 0.314);
+  --success: oklch(0.4586 0.0767 129.23);
+  --success-foreground: oklch(0.9798 0.0045 78.3);
+  --success-background: oklch(0.4586 0.0767 129.23 / 0.125);
+  --success-border: oklch(0.4586 0.0767 129.23 / 0.314);
+  --info: oklch(0.4167 0.0291 235.23);
+  --info-foreground: oklch(0.9798 0.0045 78.3);
+  --info-background: oklch(0.4167 0.0291 235.23 / 0.125);
+  --info-border: oklch(0.4167 0.0291 235.23 / 0.314);
+}
+
+[data-theme="fields-of-the-shire"][data-scheme="dark"],
+.dark [data-theme="fields-of-the-shire"] {
+  --background: oklch(0.2114 0.0075 67.4);
+  --foreground: oklch(0.9114 0.0234 75.85);
+  --card: oklch(0.2727 0.0104 61.03);
+  --card-foreground: oklch(0.9114 0.0234 75.85);
+  --popover: oklch(0.2727 0.0104 61.03);
+  --popover-foreground: oklch(0.9114 0.0234 75.85);
+  --primary: oklch(0.6081 0.071 123.49);
+  --primary-foreground: oklch(0.1465 0.0057 69.2);
+  --secondary: oklch(0.2606 0.0094 53.07);
+  --secondary-foreground: oklch(0.9114 0.0234 75.85);
+  --muted: oklch(0.2454 0.0087 75.2);
+  --muted-foreground: oklch(0.5821 0.0194 67.43);
+  --accent: oklch(0.3019 0.0124 62.15);
+  --accent-foreground: oklch(0.9114 0.0234 75.85);
+  --destructive: oklch(0.5491 0.137 31.89);
+  --destructive-foreground: oklch(0.1465 0.0057 69.2);
+  --border: oklch(0.3192 0.0068 67.58);
+  --input: oklch(0.3192 0.0068 67.58);
+  --ring: oklch(0.6081 0.071 123.49);
+  --sidebar: oklch(0.2454 0.0087 75.2);
+  --sidebar-foreground: oklch(0.9114 0.0234 75.85);
+  --sidebar-primary: oklch(0.6081 0.071 123.49);
+  --sidebar-primary-foreground: oklch(0.1465 0.0057 69.2);
+  --sidebar-accent: oklch(0.3019 0.0124 62.15);
+  --sidebar-accent-foreground: oklch(0.9114 0.0234 75.85);
+  --sidebar-border: oklch(0.3192 0.0068 67.58);
+  --sidebar-ring: oklch(0.6081 0.071 123.49);
+  --primary-hover: oklch(0.6934 0.0824 122.58);
+  --primary-active: oklch(0.7481 0.0801 122.58);
+  --primary-muted: oklch(0.6081 0.071 123.49 / 0.502);
+  --primary-emphasis: oklch(0.6934 0.0824 122.58);
+  --surface-subtle: oklch(0.2606 0.0094 53.07);
+  --surface-overlay: oklch(0.2114 0.0075 67.4 / 0.8);
+  --border-hover: oklch(0.929 0.0216 76.53 / 0.188);
+  --border-focus: oklch(0.349 0.0295 123.71);
+  --focus-ring: oklch(0.6081 0.071 123.49 / 0.302);
+  --selection: oklch(0.929 0.0216 76.53 / 0.122);
+  --selection-foreground: oklch(0.9114 0.0234 75.85);
+  --error: oklch(0.5491 0.137 31.89);
+  --error-foreground: oklch(0.1465 0.0057 69.2);
+  --error-background: oklch(0.5785 0.1251 31.18 / 0.125);
+  --error-border: oklch(0.5785 0.1251 31.18 / 0.314);
+  --warning: oklch(0.6466 0.1214 58.79);
+  --warning-foreground: oklch(0.1465 0.0057 69.2);
+  --warning-background: oklch(0.6466 0.1214 58.79 / 0.125);
+  --warning-border: oklch(0.6466 0.1214 58.79 / 0.314);
+  --success: oklch(0.6269 0.0735 123.77);
+  --success-foreground: oklch(0.1465 0.0057 69.2);
+  --success-background: oklch(0.6081 0.071 123.49 / 0.125);
+  --success-border: oklch(0.6081 0.071 123.49 / 0.314);
+  --info: oklch(0.5738 0.0336 236.1);
+  --info-foreground: oklch(0.929 0.0216 76.53);
+  --info-background: oklch(0.524 0.0307 238.08 / 0.125);
+  --info-border: oklch(0.524 0.0307 238.08 / 0.314);
+}

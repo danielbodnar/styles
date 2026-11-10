@@ -1,0 +1,271 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "@danielbodnar",
+  "homepage": "https://styles.bitbuilder.cloud",
+  "items": [
+    {
+      "name": "theme-aura-code",
+      "type": "registry:style",
+      "title": "Aura (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Aura. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-aura",
+      "type": "registry:theme",
+      "title": "Aura",
+      "description": "Aura palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-ayu-code",
+      "type": "registry:style",
+      "title": "Ayu (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Ayu. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-ayu",
+      "type": "registry:theme",
+      "title": "Ayu",
+      "description": "Ayu palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-carbonfox-code",
+      "type": "registry:style",
+      "title": "Carbonfox (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Carbonfox. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-carbonfox",
+      "type": "registry:theme",
+      "title": "Carbonfox",
+      "description": "Carbonfox palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-catppuccin-code",
+      "type": "registry:style",
+      "title": "Catppuccin (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Catppuccin. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-catppuccin",
+      "type": "registry:theme",
+      "title": "Catppuccin",
+      "description": "Catppuccin palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-dracula-code",
+      "type": "registry:style",
+      "title": "Dracula (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Dracula. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-dracula",
+      "type": "registry:theme",
+      "title": "Dracula",
+      "description": "Dracula palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-fields-of-the-shire-code",
+      "type": "registry:style",
+      "title": "Fields of the Shire (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Fields of the Shire. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-fields-of-the-shire",
+      "type": "registry:theme",
+      "title": "Fields of the Shire",
+      "description": "Fields of the Shire palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-flexoki-code",
+      "type": "registry:style",
+      "title": "Flexoki (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Flexoki. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-flexoki",
+      "type": "registry:theme",
+      "title": "Flexoki",
+      "description": "Flexoki palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-gruvbox-code",
+      "type": "registry:style",
+      "title": "Gruvbox (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Gruvbox. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-gruvbox",
+      "type": "registry:theme",
+      "title": "Gruvbox",
+      "description": "Gruvbox palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-jetbrains-code",
+      "type": "registry:style",
+      "title": "JetBrains (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for JetBrains. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-jetbrains",
+      "type": "registry:theme",
+      "title": "JetBrains",
+      "description": "JetBrains palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-kanagawa-code",
+      "type": "registry:style",
+      "title": "Kanagawa (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Kanagawa. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-kanagawa",
+      "type": "registry:theme",
+      "title": "Kanagawa",
+      "description": "Kanagawa palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-mono-code",
+      "type": "registry:style",
+      "title": "Mono (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Mono. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-mono-plus-code",
+      "type": "registry:style",
+      "title": "Mono Plus (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Mono Plus. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-mono-plus",
+      "type": "registry:theme",
+      "title": "Mono Plus",
+      "description": "Mono Plus palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-mono",
+      "type": "registry:theme",
+      "title": "Mono",
+      "description": "Mono palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-monokai-code",
+      "type": "registry:style",
+      "title": "Monokai (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Monokai. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-monokai",
+      "type": "registry:theme",
+      "title": "Monokai",
+      "description": "Monokai palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-nightowl-code",
+      "type": "registry:style",
+      "title": "Night Owl (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Night Owl. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-nightowl",
+      "type": "registry:theme",
+      "title": "Night Owl",
+      "description": "Night Owl palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-nord-code",
+      "type": "registry:style",
+      "title": "Nord (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Nord. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-nord",
+      "type": "registry:theme",
+      "title": "Nord",
+      "description": "Nord palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-onedarkpro-code",
+      "type": "registry:style",
+      "title": "One Dark Pro (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for One Dark Pro. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-onedarkpro",
+      "type": "registry:theme",
+      "title": "One Dark Pro",
+      "description": "One Dark Pro palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-openchamber-code",
+      "type": "registry:style",
+      "title": "OpenChamber (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for OpenChamber. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-openchamber",
+      "type": "registry:theme",
+      "title": "OpenChamber",
+      "description": "OpenChamber palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-solarized-code",
+      "type": "registry:style",
+      "title": "Solarized (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Solarized. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-solarized",
+      "type": "registry:theme",
+      "title": "Solarized",
+      "description": "Solarized palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-tokyonight-code",
+      "type": "registry:style",
+      "title": "Tokyonight (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Tokyonight. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-tokyonight",
+      "type": "registry:theme",
+      "title": "Tokyonight",
+      "description": "Tokyonight palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-vesper-code",
+      "type": "registry:style",
+      "title": "Vesper (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Vesper. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-vesper",
+      "type": "registry:theme",
+      "title": "Vesper",
+      "description": "Vesper palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-vitesse-dark-code",
+      "type": "registry:style",
+      "title": "Vitesse Dark (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Vitesse Dark. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-vitesse-dark",
+      "type": "registry:theme",
+      "title": "Vitesse Dark",
+      "description": "Vitesse Dark palette mapped to the shadcn variable contract."
+    },
+    {
+      "name": "theme-vitesse-light-code",
+      "type": "registry:style",
+      "title": "Vitesse Light (code layer)",
+      "description": "Syntax, Markdown, chat, and tool tokens for Vitesse Light. Additive; safe alongside any theme."
+    },
+    {
+      "name": "theme-vitesse-light",
+      "type": "registry:theme",
+      "title": "Vitesse Light",
+      "description": "Vitesse Light palette mapped to the shadcn variable contract."
+    }
+  ]
+}

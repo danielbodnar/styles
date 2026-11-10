@@ -1,0 +1,7 @@
+{
+  "name": "design-system",
+  "version": "0.1.0",
+  "description": "Select and wire existing design systems, component registries, design tokens, and themes. Includes 22 themes, 26 DESIGN.md references, and offline fallbacks.",
+  "author": { "name": "Daniel Bodnar", "url": "https://github.com/danielbodnar" },
+  "license": "MIT"
+}

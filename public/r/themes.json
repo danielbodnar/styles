@@ -1,0 +1,302 @@
+[
+  {
+    "id": "aura",
+    "name": "Aura",
+    "tags": [
+      "dark",
+      "palette"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-aura"
+  },
+  {
+    "id": "ayu",
+    "name": "Ayu",
+    "tags": [
+      "dark",
+      "palette"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-ayu"
+  },
+  {
+    "id": "carbonfox",
+    "name": "Carbonfox",
+    "tags": [
+      "dark",
+      "palette"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-carbonfox"
+  },
+  {
+    "id": "catppuccin",
+    "name": "Catppuccin",
+    "tags": [
+      "dark",
+      "palette"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-catppuccin"
+  },
+  {
+    "id": "dracula",
+    "name": "Dracula",
+    "tags": [
+      "dark",
+      "palette"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-dracula"
+  },
+  {
+    "id": "fields-of-the-shire",
+    "name": "Fields of the Shire",
+    "tags": [
+      "dark",
+      "warm",
+      "earthy",
+      "brand"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-fields-of-the-shire"
+  },
+  {
+    "id": "flexoki",
+    "name": "Flexoki",
+    "tags": [
+      "dark",
+      "warm",
+      "natural",
+      "ink"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-flexoki"
+  },
+  {
+    "id": "gruvbox",
+    "name": "Gruvbox",
+    "tags": [
+      "dark",
+      "palette"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-gruvbox"
+  },
+  {
+    "id": "jetbrains",
+    "name": "JetBrains",
+    "tags": [
+      "dark",
+      "jetbrains",
+      "ide",
+      "blue"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-jetbrains"
+  },
+  {
+    "id": "kanagawa",
+    "name": "Kanagawa",
+    "tags": [
+      "dark",
+      "japanese",
+      "ink",
+      "elegant"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-kanagawa"
+  },
+  {
+    "id": "mono",
+    "name": "Mono",
+    "tags": [
+      "dark",
+      "monochrome",
+      "minimal",
+      "grayscale"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-mono"
+  },
+  {
+    "id": "mono-plus",
+    "name": "Mono Plus",
+    "tags": [
+      "dark",
+      "monochrome",
+      "minimal"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-mono-plus"
+  },
+  {
+    "id": "monokai",
+    "name": "Monokai",
+    "tags": [
+      "dark",
+      "palette"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-monokai"
+  },
+  {
+    "id": "nightowl",
+    "name": "Night Owl",
+    "tags": [
+      "dark",
+      "palette"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-nightowl"
+  },
+  {
+    "id": "nord",
+    "name": "Nord",
+    "tags": [
+      "dark",
+      "palette"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-nord"
+  },
+  {
+    "id": "onedarkpro",
+    "name": "One Dark Pro",
+    "tags": [
+      "dark",
+      "palette"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-onedarkpro"
+  },
+  {
+    "id": "openchamber",
+    "name": "OpenChamber",
+    "tags": [
+      "dark",
+      "brand",
+      "hybrid",
+      "warm",
+      "ink"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-openchamber"
+  },
+  {
+    "id": "solarized",
+    "name": "Solarized",
+    "tags": [
+      "dark",
+      "palette"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-solarized"
+  },
+  {
+    "id": "tokyonight",
+    "name": "Tokyonight",
+    "tags": [
+      "dark",
+      "palette"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-tokyonight"
+  },
+  {
+    "id": "vesper",
+    "name": "Vesper",
+    "tags": [
+      "dark",
+      "palette"
+    ],
+    "variants": [
+      "light",
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-vesper"
+  },
+  {
+    "id": "vitesse-dark",
+    "name": "Vitesse Dark",
+    "tags": [
+      "dark",
+      "converted",
+      "vscode"
+    ],
+    "variants": [
+      "dark"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-vitesse-dark"
+  },
+  {
+    "id": "vitesse-light",
+    "name": "Vitesse Light",
+    "tags": [
+      "light",
+      "converted",
+      "vscode"
+    ],
+    "variants": [
+      "light"
+    ],
+    "install": "npx shadcn@latest add @danielbodnar/theme-vitesse-light"
+  }
+]

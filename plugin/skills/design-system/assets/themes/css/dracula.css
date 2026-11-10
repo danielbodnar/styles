@@ -1,0 +1,120 @@
+/* Dracula
+ * Generated. Do not edit. Rebuild: node scripts/build.mjs
+ * Source: openchamber (MIT, Bohdan Triapitsyn)
+ * Format: oklch. Fonts and radius omitted deliberately; set per project.
+ */
+
+[data-theme="dracula"] {
+  --background: oklch(0.9775 0.0079 106.55);
+  --foreground: oklch(0.2471 0.0302 283.97);
+  --card: oklch(0.9466 0.0119 106.63);
+  --card-foreground: oklch(0.2471 0.0302 283.97);
+  --popover: oklch(0.9466 0.0119 106.63);
+  --popover-foreground: oklch(0.2471 0.0302 283.97);
+  --primary: oklch(0.6152 0.1988 284.52);
+  --primary-foreground: oklch(0.9775 0.0079 106.55);
+  --secondary: oklch(0.9464 0.0094 113.16);
+  --secondary-foreground: oklch(0.2471 0.0302 283.97);
+  --muted: oklch(0.955 0.0082 121.63);
+  --muted-foreground: oklch(0.5362 0.0217 285.65);
+  --accent: oklch(0.8154 0.0644 290.88 / 0.22);
+  --accent-foreground: oklch(0.2471 0.0302 283.97);
+  --destructive: oklch(0.6259 0.1687 10.7);
+  --destructive-foreground: oklch(0.9775 0.0079 106.55);
+  --border: oklch(0.9126 0.0121 111.77);
+  --input: oklch(0.9126 0.0121 111.77);
+  --ring: oklch(0.6152 0.1988 284.52);
+  --sidebar: oklch(0.955 0.0082 121.63);
+  --sidebar-foreground: oklch(0.2471 0.0302 283.97);
+  --sidebar-primary: oklch(0.6152 0.1988 284.52);
+  --sidebar-primary-foreground: oklch(0.9775 0.0079 106.55);
+  --sidebar-accent: oklch(0.8154 0.0644 290.88 / 0.22);
+  --sidebar-accent-foreground: oklch(0.2471 0.0302 283.97);
+  --sidebar-border: oklch(0.9126 0.0121 111.77);
+  --sidebar-ring: oklch(0.6152 0.1988 284.52);
+  --primary-hover: oklch(0.6835 0.157 287.38);
+  --primary-active: oklch(0.5506 0.1751 284.45);
+  --primary-muted: oklch(0.6152 0.1988 284.52 / 0.502);
+  --primary-emphasis: oklch(0.6835 0.157 287.38);
+  --surface-subtle: oklch(0.9464 0.0094 113.16);
+  --surface-overlay: oklch(0.115 0.0218 290.16 / 0.125);
+  --border-hover: oklch(0.882 0.0122 111.78);
+  --border-focus: oklch(0.7588 0.0156 115.13);
+  --focus-ring: oklch(0.6152 0.1988 284.52 / 0.251);
+  --selection: oklch(0.8154 0.0644 290.88 / 0.388);
+  --selection-foreground: oklch(0.115 0.0218 290.16);
+  --error: oklch(0.6259 0.1687 10.7);
+  --error-foreground: oklch(0.9775 0.0079 106.55);
+  --error-background: oklch(0.6259 0.1687 10.7 / 0.125);
+  --error-border: oklch(0.6259 0.1687 10.7 / 0.314);
+  --warning: oklch(0.78 0.1417 62.25);
+  --warning-foreground: oklch(0.9775 0.0079 106.55);
+  --warning-background: oklch(0.78 0.1417 62.25 / 0.125);
+  --warning-border: oklch(0.78 0.1417 62.25 / 0.314);
+  --success: oklch(0.7123 0.1644 154.09);
+  --success-foreground: oklch(0.9775 0.0079 106.55);
+  --success-background: oklch(0.7123 0.1644 154.09 / 0.125);
+  --success-border: oklch(0.7123 0.1644 154.09 / 0.314);
+  --info: oklch(0.5777 0.1372 245.96);
+  --info-foreground: oklch(0.9775 0.0079 106.55);
+  --info-background: oklch(0.5777 0.1372 245.96 / 0.125);
+  --info-border: oklch(0.5777 0.1372 245.96 / 0.314);
+}
+
+[data-theme="dracula"][data-scheme="dark"],
+.dark [data-theme="dracula"] {
+  --background: oklch(0.1996 0.0201 279.96);
+  --foreground: oklch(0.9775 0.0079 106.55);
+  --card: oklch(0.209 0.0218 280.29);
+  --card-foreground: oklch(0.9775 0.0079 106.55);
+  --popover: oklch(0.209 0.0218 280.29);
+  --popover-foreground: oklch(0.9775 0.0079 106.55);
+  --primary: oklch(0.742 0.1485 301.88);
+  --primary-foreground: oklch(0.1996 0.0201 279.96);
+  --secondary: oklch(0.2502 0.0303 281.2);
+  --secondary-foreground: oklch(0.9775 0.0079 106.55);
+  --muted: oklch(0.2188 0.0255 280.66);
+  --muted-foreground: oklch(0.6022 0.0455 281.94);
+  --accent: oklch(0.3292 0.0426 278.29 / 0.639);
+  --accent-foreground: oklch(0.9775 0.0079 106.55);
+  --destructive: oklch(0.6822 0.2063 24.43);
+  --destructive-foreground: oklch(0.1996 0.0201 279.96);
+  --border: oklch(0.2892 0.0219 281.19);
+  --input: oklch(0.2892 0.0219 281.19);
+  --ring: oklch(0.742 0.1485 301.88);
+  --sidebar: oklch(0.2188 0.0255 280.66);
+  --sidebar-foreground: oklch(0.9775 0.0079 106.55);
+  --sidebar-primary: oklch(0.742 0.1485 301.88);
+  --sidebar-primary-foreground: oklch(0.1996 0.0201 279.96);
+  --sidebar-accent: oklch(0.3292 0.0426 278.29 / 0.639);
+  --sidebar-accent-foreground: oklch(0.9775 0.0079 106.55);
+  --sidebar-border: oklch(0.2892 0.0219 281.19);
+  --sidebar-ring: oklch(0.742 0.1485 301.88);
+  --primary-hover: oklch(0.6691 0.1316 301.81);
+  --primary-active: oklch(0.7795 0.1263 302.6);
+  --primary-muted: oklch(0.742 0.1485 301.88 / 0.502);
+  --primary-emphasis: oklch(0.6691 0.1316 301.81);
+  --surface-subtle: oklch(0.2502 0.0303 281.2);
+  --surface-overlay: oklch(1 0 0 / 0.125);
+  --border-hover: oklch(0.3231 0.0321 279.5);
+  --border-focus: oklch(0.4311 0.053 279.78);
+  --focus-ring: oklch(0.742 0.1485 301.88 / 0.251);
+  --selection: oklch(0.3292 0.0426 278.29);
+  --selection-foreground: oklch(1 0 0);
+  --error: oklch(0.6822 0.2063 24.43);
+  --error-foreground: oklch(0.1996 0.0201 279.96);
+  --error-background: oklch(0.6822 0.2063 24.43 / 0.125);
+  --error-border: oklch(0.6822 0.2063 24.43 / 0.314);
+  --warning: oklch(0.8339 0.1241 66.56);
+  --warning-foreground: oklch(0.1996 0.0201 279.96);
+  --warning-background: oklch(0.8339 0.1241 66.56 / 0.125);
+  --warning-border: oklch(0.8339 0.1241 66.56 / 0.314);
+  --success: oklch(0.871 0.2195 148.02);
+  --success-foreground: oklch(0.1996 0.0201 279.96);
+  --success-background: oklch(0.871 0.2195 148.02 / 0.125);
+  --success-border: oklch(0.871 0.2195 148.02 / 0.314);
+  --info: oklch(0.8826 0.0934 212.85);
+  --info-foreground: oklch(0.1996 0.0201 279.96);
+  --info-background: oklch(0.8826 0.0934 212.85 / 0.125);
+  --info-border: oklch(0.8826 0.0934 212.85 / 0.314);
+}
